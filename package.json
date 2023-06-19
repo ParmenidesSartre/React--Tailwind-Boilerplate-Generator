@@ -1,0 +1,22 @@
+{
+  "name": "production-ready-react-boilerplate-generator",
+  "version": "1.0.0",
+  "description": "This script is a CLI (Command Line Interface) tool for setting up a new React project with TypeScript. It automates the process of creating the project structure, installing dependencies, configuring files, and setting up essential tools like ESLint, Prettier, Husky, Tailwind CSS, and Jest for testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParmenidesSartre/React--Tailwind-Boilerplate-Generator.git"
+  },
+  "bin": {
+    "project-setup-cli": "./scaffold.js"
+  },  
+  "author": "Mohd Faizal Bin Azman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ParmenidesSartre/React--Tailwind-Boilerplate-Generator/issues"
+  },
+  "homepage": "https://github.com/ParmenidesSartre/React--Tailwind-Boilerplate-Generator#readme"
+}
